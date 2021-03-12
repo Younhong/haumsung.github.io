@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to Younhong's Github Page
+* This page is guide document page for Haumsung Project.
+Only part of source code that explains new functions will be shown if necessary for the matter of security.
 
-You can use the [editor on GitHub](https://github.com/Younhong/haumsung.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# About Haumsung
+* 함께 성경을 읽는 앱
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Environment
+* App:    
+   > Android Studio, Flutter, Dart, Android or IOS Device(Real Device or Virtual Device).
 
-### Markdown
+* Database: 
+   > Google Cloud Firebase Platform.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Github
+   > Github is very nice tool for managing source code.
 
-```markdown
-Syntax highlighted code block
+* Slack
+   > Slack is very useful tool for communcating with developers. Also, slack provides notification channel connected with gitlab which means all the commits of gitlab can be notified and shown on slack.
+  
 
-# Header 1
-## Header 2
-### Header 3
+# Project Structure
 
-- Bulleted
-- List
+# About Provider Pattern
+* Provider Pattern is a design pattern that is similar to bloc pattern.
+* Provider Pattern이란?
 
-1. Numbered
-2. List
+* Bloc Pattern과의 차이점
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Younhong/haumsung.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Contact
+> If you have any questions regarding this project, please contact [younhong@kakao.com](younhong@kakao.com)
